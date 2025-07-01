@@ -130,8 +130,8 @@ main{
     height: 120px;
 }
 .circle{
-    width: 550px;
-    height: 650px;
+    width: 490px;
+    height: 550px;
     margin-right: 65px;
     background-color: rgb(224, 144, 69);
     border: 3px solid rgb(42, 212, 119);
