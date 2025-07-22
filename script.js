@@ -1,5 +1,5 @@
 const typewriterElement = document.getElementById('typewriter');
-const texts = ["Web development ","Data Analytics", "C++ ","Python ", "Marketing ","UI/UX "];
+const texts = ["Web development ","Data Analytics ", "Java ","Python ", "Marketing ","UI/UX "];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
